@@ -1,0 +1,13 @@
+				
+	
+	Hola honorable equipo de evaluacion de trabajos finales, antes que nada quiero pedir disculpas por entregar el trabajo tan sobre la hora. El problema estuvo en que me fui de vacaciones 1 semana cuando terminamos el curso y cuando volvi tuve porblemas con la computadora y termine pudiendo acceder a una notebook de 2012 de mi padre recien este sabado. Gracias a eso tuve que hacer el trabajo a las apuradas y trabandome con problemas cada 2x3. 
+	
+	
+	El trabajo lo empece con una hoja de jupyter donde realice el proceso de data cleaning con normalidad pero tuve problemas a la hora de empezar con el feature enineering con los graficos por la pc, por lo que pase directamente a conectar con mysql y tuve el siguiente error que no pude solucionar: MySQLInterfaceError: Got a packet bigger than 'max_allowed_packet' bytes.
+	No encontre en internet una solucion clara e imagine que era un problema de la pc por lo que pase al script sql solo con las tablas pero trate al script como si la tabla estuviera cargada. 
+	
+	Me da mucha lastima no poder hacer un trabajo mas a la altura del hermoso curso pero bueno, la parte positiva es que gracias a este problema me hice mas amigo con linux al formatear la pc vieja para buscar mayor rendimiento.
+
+	Muchas gracias y nos vemos en la llamada de despedida!!!
+	
+ 
